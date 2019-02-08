@@ -1,1 +1,1 @@
-# GGP_iOS
+# Shopping-GGP-iOS-
